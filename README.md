@@ -1,4 +1,4 @@
-# StreamGrab 🎥  
+# YTDownloader 🎥  
 
 A **Python-based YouTube Downloader** built with [pytubefix](https://pypi.org/project/pytubefix/).  
 Easily download **single videos**, **audio-only tracks**, or **entire playlists** with just a few lines of code.  
@@ -30,7 +30,7 @@ pip install pytubefix
 
 ---
 
-###💻 Example
+##💻 Example
 
 Download Options:
 1. Single Video
